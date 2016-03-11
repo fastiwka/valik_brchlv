@@ -1,0 +1,5 @@
+commit 4f993a85a205e553c00bcb9c3da7acfabdddffe6
+Author: valik_brchlv <valikburchalov1@gmail.com>
+Date:   Fri Mar 11 13:46:13 2016 +0200
+
+    Add .gitignore
