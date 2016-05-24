@@ -1,0 +1,15 @@
+GET http://192.168.122.1:12345/chat?token=TN11EN HTTP/1.1
+Host: 192.168.122.1:12345
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+Date: Tue, 20 May 2016 02:52:22 GMT
+Access-control-allow-origin: *
+Content-length: 62
+
+{"messages":["Raz","Raz Dva Tri","Raz Dva"],"token":"TN35EN"}

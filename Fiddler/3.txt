@@ -1,0 +1,13 @@
+POST http://192.168.122.1:12345/chat HTTP/1.1
+User-Agent: Composer
+Host: 192.168.122.1:12345
+Content-Length: 27
+
+{"message" : "new message"}
+HTTP/1.1 200 OK
+Date: Tue, 20 May 2016 05:04:49 GMT
+Transfer-encoding: chunked
+Access-control-allow-origin: *
+
+0
+

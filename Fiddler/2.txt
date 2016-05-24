@@ -1,0 +1,11 @@
+GET http://192.168.122.1:12345/chat?token=TN27EN HTTP/1.1
+User-Agent: Composer
+Host: 192.168.122.1:12345
+
+
+HTTP/1.1 200 OK
+Date: Tue, 20 May 2016 04:44:37 GMT
+Access-control-allow-origin: *
+Content-length: 43
+
+{"messages":["Raz Dva"],"token":"TN35EN"}
