@@ -5,7 +5,7 @@
 }
 
 body {
-  background: #C5DDEB;
+  background: #EFDECD;
   font: 14px/20px "Lato", Arial, sans-serif;
   padding: 65px 0;
   color: white;
@@ -117,7 +117,7 @@ h1 {
   min-width: 480px;
   overflow: hidden;
   float: left;
-  background: #F2F5F8;
+  background: #F5F5DC;
   border-radius: 6px;
   border-top-right-radius: 5px;
   border-bottom-right-radius: 5px;
@@ -194,10 +194,10 @@ h1 {
   border-bottom-color: black;
 }
 .chat .chat-history .my-message {
-  background: #86BB71;
+  background: #848482;
 }
 .chat .chat-history .other-message {
-  background: #94C2ED;
+  background: #CD7F32;
 }
 
 .chat .chat-history .removed {
